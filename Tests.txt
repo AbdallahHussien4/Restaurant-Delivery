@@ -1,0 +1,9 @@
+Test 1 : Tests Auto Promotion
+
+Test 2 : Tests Normal Promotion
+
+Test 3 : Tests Cancellation
+
+Test 4 : Tests Motorcycles Move go and back
+
+Test 5,6 : General Tests 
